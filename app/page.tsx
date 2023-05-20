@@ -42,7 +42,10 @@ export default function Home() {
         Ej Sadiarin - Ej System
       </div>
       <div>
-        Test commit
+        Test commit -- check checkeak check check 
+      </div>
+      <div>
+        config confifasdfsafasd sdfasdfsadfksjj sdfhsdafsadf
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
