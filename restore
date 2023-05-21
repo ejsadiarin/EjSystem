@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo apt-get install libvterm0 lua-luv libluajit-5.1-2 x11-common libtree-sitter0 libtermkey1 neovim-runtime libxmu6 python3-pynvim libunibilium4 libmsgpackc2 libice6 xclip python3-msgpack python3-neovim libsm6 python3-greenlet libxt6 libluajit-5.1-common
